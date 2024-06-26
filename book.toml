@@ -10,8 +10,8 @@ pagetoc = true
 sidebar-width = "250px"
 
 [output.html]
-default-theme = "ayu"
-git-repository-url = ""
+default-theme = "light"
+git-repository-url = "https://github.com/Makeplayism/us"
 additional-css = ["theme/pagetoc.css"]
 additional-js = ["theme/pagetoc.js"]
 

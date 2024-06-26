@@ -5,4 +5,5 @@
 - [项目](items/README.md)
 - [随想](logs/README.md)
 - [人物](player/README.md)
+    + [Sonia](player/sonia.md)
     + [大妈](player/dama.md)

@@ -9,6 +9,8 @@ title = "Makeplayism"
 pagetoc = true
 sidebar-width = "250px"
 
+[preprocessor.pagetoc]
+
 [output.html]
 default-theme = "light"
 git-repository-url = "https://github.com/Makeplayism/us"

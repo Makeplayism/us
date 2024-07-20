@@ -62,7 +62,7 @@
 
 
 
-<video width="640" height="360" src="https://github.com/Makeplayism/us/raw/main/src/videos/h2edit_makeplay.mp4"></video>
+<video width="640" height="360" src="videos/h2edit_makeplay.mp4" controls></video>
 
 
 **注意:**

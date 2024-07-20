@@ -8,6 +8,7 @@
 ---
 
 - [随想](logs/README.md)
+    + [240720](logs/240720.md)
 - [人物](player/README.md)
     + [Sonia](player/sonia.md)
     + [大妈](player/dama.md)

@@ -25,6 +25,12 @@
 ## 日常
 > 日常进行各种编辑行为的简要说明
 
+
+
+
+<video width="640" height="360" src="videos/h2edit_makeplay.mp4" controls></video>
+
+
 **注意:**
 
 - 首先**要注册**为 github 用户

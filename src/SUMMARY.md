@@ -12,7 +12,7 @@
 - [人物](player/README.md)
     + [Sonia](player/sonia.md)
     + [大妈](player/dama.md)
-
+    + [Annie](player/annie.md)
 # 实践🌚🌘🌗🌖🌝
 
 ---

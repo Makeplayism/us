@@ -9,7 +9,6 @@
 
 - [随想](logs/README.md)
     + [240730 KM?](logs/240730.md)
-    + [240725](logs/240725.md)
     + [240720](logs/240720.md)
 - [人物](player/README.md)
     + [Sonia](player/sonia.md)
